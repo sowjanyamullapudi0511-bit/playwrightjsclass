@@ -1,0 +1,20 @@
+[
+    {
+        "name" : "Sowjanya",
+        "Email" : "abc@gmail.com",
+        "phone" : "0923288328",
+        "Address" : "2-11, opposite street, Gopanpally"
+    },
+    {
+        "name" : "Sowjanya@%^%",
+        "Email" : "abc",
+        "phone" : "0923288328",
+        "Address" : "_"
+    },
+    {
+        "name" : "__",
+        "Email" : "****",
+        "phone" : "00932923",
+        "Address" : "&^^^"
+    }
+]
